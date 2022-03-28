@@ -48,6 +48,9 @@
 
 <div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Ustun-Ertas&theme=xcode" /></div>
 
+## Snake eating my contribution
+![snake svg](https://github.com/Ustun-Ertas/Ustun-Ertas/blob/output/github-contribution-grid-snake.gif)
+
 
 
 

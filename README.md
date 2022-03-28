@@ -48,7 +48,8 @@
 
 <div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Ustun-Ertas&theme=xcode" /></div>
 
-## Snake eating my contribution graph
+#
+![gitartwork](https://github.com/Ustun-Ertas/Ustun-Ertas/blob/main/gitartwork.svg)
 
 
 

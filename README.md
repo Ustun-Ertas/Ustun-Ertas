@@ -1,11 +1,11 @@
-<h2>
-Welcome to My GitHub Page
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<h2 align="center">
+  Welcome to My GitHub Page
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
-<a 
-href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-</p>
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Homo+Sapiens;I+am+Ustun+Ertas;Software+Test+Engineer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=30">
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Homo+sapiens;I+am+Ustun+Ertas;Software+Test+Engineer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=30">
 </p>
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green) 

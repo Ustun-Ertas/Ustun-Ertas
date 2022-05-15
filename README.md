@@ -9,6 +9,7 @@
 </p>
 
 ![](https://komarev.com/ghpvc/?username=Ustun-ERtas-github-Ustun-Ertas&color=green) 
+[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=Ustun-Ertas.visitor-badge)](https://github.com/Ustun-Ertas/StrapDown.js/stargazers/) 
 [![GitHub followers](https://img.shields.io/github/followers/Ustun-Ertas?style=social)](https://github.com/Ustun-Ertas?tab=followers)
   </div>
 

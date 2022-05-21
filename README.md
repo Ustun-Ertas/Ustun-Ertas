@@ -7,12 +7,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Homo+sapiens;I+am+Ustun+Ertas;Software+Test+Engineer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=30">
 </p>
-
-![](https://komarev.com/ghpvc/?username=Ustun-ERtas-github-Ustun-Ertas&color=green) 
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=Ustun-Ertas.visitor-badge)](https://github.com/Ustun-Ertas/StrapDown.js/stargazers/) 
-[![GitHub followers](https://img.shields.io/github/followers/Ustun-Ertas?style=social)](https://github.com/Ustun-Ertas?tab=followers)
-  </div>
-
 <img align="center" height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ustun-Ertas&layout=compact&langs_count=8&theme=tokyonight"/></div>
 <p>
   <p>

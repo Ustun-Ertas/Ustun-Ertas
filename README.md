@@ -19,10 +19,10 @@
 
 <img align="center" height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ustun-Ertas&layout=compact&langs_count=8&theme=tokyonight"/></div>
 <p>
+
+
   
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Ustun-Ertas&count_private=true&show_icons=true&theme=tokyonight">
-</p>
+  
 <br />
 
 🛠 Tecnologies & Tools

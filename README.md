@@ -38,10 +38,6 @@
 ![INTELLIJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
   
 
-
-Snake eating my contribution graph
-![snake svg](https://github.com/Ustun-Ertas/Ustun-Ertas/blob/output/github-contribution-grid-snake.gif)
-
 📫 Contact info 
 
 <a href="https://www.linkedin.com/in/ustun-ertas-720364124//"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
